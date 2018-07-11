@@ -32,6 +32,8 @@ Features that are used in the web app are:
 4) MessageList : It shows the history of messages.
 
 5) WhosOnlineList : This shows who is online and it covers the left side of web page.
+image shown below,
+
 
 
 For managing the database,rooms and users we have to create a instance of Chatkit.
