@@ -7,6 +7,7 @@
 6) npm install --save @pusher/chatkit
 7) npm start
 
+This webpage is created with chatkit service which is provided by pusher. you can see it from https://pusher.com/chatkit . 
 # What is Chatkit?
 Chatkit is a hosted API that helps you build impressive chat features into your applications with less code. Features that are used in the web app are:
 
