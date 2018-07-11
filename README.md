@@ -25,13 +25,16 @@ Features that are used in the web app are:
 1) UsernameForm :  This is part of front page where user has to submit their username to enter into chat room.
 
 
-2) SendMessageForm :
+2) SendMessageForm : by use of send message form whatever text user will type it will send to Message list.
 
-3) TypingIndicator :
+3) TypingIndicator : This shows , which user is typing. 
 
-4) MessageList :
+4) MessageList : Is shows the history of messages.
 
-5)WhosOnlineList :
+5) WhosOnlineList : This shows who is online. it covers the left side of web page.
 
+
+For managing the database,rooms and users we have to create a instance of Chatkit.
+which will provide instance Locator and Secret Key by which we can handle the record of each user and rooms by using instance inspector.
 
 
