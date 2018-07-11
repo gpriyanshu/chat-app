@@ -126,7 +126,7 @@ class UsernameForm extends Component {
             </a>
           </li>
           <li class="list-inline-item social-github">
-            <a href="#">
+            <a href="https://github.com/gpriyanshu/chat-app">
               <i class="fa fa-github"></i>
             </a>
           </li>
