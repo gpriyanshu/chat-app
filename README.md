@@ -1,8 +1,8 @@
 ## How to clone and install. 
 1) open command prompt and type: $ cd desktop.
-2) git clone https://github.com/gpriyanshu/chat-app.git (if git is not install then install it from here. https://git-scm.com/downloads )
+2) $ git clone https://github.com/gpriyanshu/chat-app.git (if git is not install then install it from here. https://git-scm.com/downloads )
 3) $ cd chat-app
-4) now, $ npm install (if node.js and npm is not install then install it from here https://www.npmjs.com/get-npm)
+4) now type, $ npm install (if node.js and npm is not install then install it from here https://www.npmjs.com/get-npm)
 5) $ npm install --save pusher-chatkit-server
 6) $ npm install --save @pusher/chatkit
 7) $ npm start
