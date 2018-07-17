@@ -1,5 +1,5 @@
 ## How to clone and install. 
-### open command prompt and type all there command step by step.
+### open command prompt and type all these command step by step.
 1) $ cd desktop.
 2) $ git clone https://github.com/gpriyanshu/chat-app.git (if git is not install then install it from here. https://git-scm.com/downloads )
 3) $ cd chat-app
